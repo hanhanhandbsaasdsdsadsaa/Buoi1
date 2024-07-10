@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\bin\Debug\bai_vd.exe.config
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\obj\Debug\bai_vd.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\bin\Debug\bai_vd.exe
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\bin\Debug\bai_vd.pdb
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\obj\Debug\bai_vd.exe
+E:\LuuDuLieuSinhVien\hanpt\bai_vd\bai_vd\obj\Debug\bai_vd.pdb
